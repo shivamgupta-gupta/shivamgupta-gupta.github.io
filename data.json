@@ -1,5 +1,5 @@
 {
-  student: [
+  "student": [
     {name: "Shivam", age: 21, year: "fourth"},
     {name: "Meghna", age: 19, year: "second"},
     {name: "Rishabh", age: 21, year: "third"}
